@@ -18,6 +18,12 @@ body {
     box-shadow: 0 0 10px 2px;
 }
 
+.score{
+    font-size: large;
+    font-weight: bold;
+    font-family: 'Franklin Gothic Medium';
+}
+
 .btn-grid {
     display: grid;
     gap: 10px;
@@ -31,6 +37,7 @@ body {
     padding: 5px 10px;
     color: antiquewhite;
     outline: none;
+    font-family: 'Franklin Gothic Medium';
 }
 
 .btn:hover{
